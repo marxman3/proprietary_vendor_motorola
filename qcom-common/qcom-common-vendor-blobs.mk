@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/qcom-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/motorola/qcom-common/proprietary/bin/dbvc_atvc_property_set:system/bin/dbvc_atvc_property_set \
     vendor/motorola/qcom-common/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
+    vendor/motorola/qcom-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/motorola/qcom-common/proprietary/bin/ftmipcd:system/bin/ftmipcd \
     vendor/motorola/qcom-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/qcom-common/proprietary/bin/nl_listener:system/bin/nl_listener \
